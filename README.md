@@ -113,6 +113,6 @@ Final models, training notebooks, and metric visualizations are available at:
   [https://github.com/fzakharov129/wind_pressure_mlp](https://github.com/fzakharov129/wind_pressure_mlp)
 
 - 📊 **Kaggle Page:**  
-  *Coming soon...*
+  [https://www.kaggle.com/datasets/fedorzakharov331/wind-pressure-mlp](https://www.kaggle.com/datasets/fedorzakharov331/wind-pressure-mlp)
 
 ---
